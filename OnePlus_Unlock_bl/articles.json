@@ -1,0 +1,16 @@
+{
+  "article_id": "tech-2026-04-16-001",
+  "author": "隆隆是我",
+  "publish_time": "2026-04-16T13:42:06Z",
+  "category": "技术干货",
+  "content": {
+    "body": [
+      {
+        "type_name": "一加刷机bl并root教程",
+        "text": "一加可“秒解 BL”机型清单（2026 年最新）\n\n旗舰系列：\n一加 13、12、11、10 Pro、9、9 Pro、9R、9RT\n一加 8、8 Pro、8T\n一加 7、7 Pro、7T、7T Pro\n更早机型（6 系列及以前）\n\nAce / 中端系列：\n一加 Ace 5、Ace 5 Pro\n一加 Ace 3、Ace 2、Ace 2 Pro、Ace 2V\n一加 Ace、一加 10R、一加 9RT、一加 8T\n一加平板、一加平板 Pro\n\n必须申请深度测试的机型：\n以下机型出厂预装 ColorOS 16，必须先申请深度测试、审核通过后才能解锁\n一加 15、一加 Ace 6、Ace 6T\n一加平板 2\n一加 Turbo 6、Turbo 6V\n\n升级不触发新规则：\n一加 12/13/Ace5 等老机型：即便手动升级到 ColorOS 16，依然可以秒解 BL，不用申请深度测试\n只有出厂就是 ColorOS 16 的新机型（一加 15、Ace6 等）才需要申请\n\n解锁方法（秒解版）：\n设置 → 关于手机 → 连续点“版本号”开启开发者选项\n开发者选项 → 开启 OEM 解锁 + USB 调试\n电脑用 fastboot 执行：fastboot flashing unlock\n手机音量键选择 UNLOCK THE BOOTLOADER",
+        "text1": "必须备份所有数据：Root 操作存在变砖风险，且部分步骤会清除数据，这边推荐大侠阿木的一加全能工具箱root，地址：https://optool.daxiaamu.com/wiki_pctool，然后下载系统对应版本的系统全量包，打开一加全能工具箱，按照对应步骤操作，变砖了找我，必须吃你一波大的哈哈哈"
+      }
+    ],
+    "conclusion": ""
+  }
+}
