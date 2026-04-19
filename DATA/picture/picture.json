@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://gitee.com/你的用户名/仓库名/raw/master/picture/",
+  "pictures": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg",
+    "changsha.jpg"
+  ]
+}
